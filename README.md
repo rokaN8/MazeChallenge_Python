@@ -15,10 +15,11 @@ Failed Paths:
 ![alt text](https://raw.githubusercontent.com/rokaN8/MazeChallenge_Python/master/readme_images/failed/image91.jpg)
 
 Successful Paths:
-![alt text](https://github.com/rokaN8/MazeChallenge_Python/tree/master/readme_images/success/image227.jpg)
-![alt text](https://github.com/rokaN8/MazeChallenge_Python/tree/master/readme_images/success/image231.jpg)
-![alt text](https://github.com/rokaN8/MazeChallenge_Python/tree/master/readme_images/success/image241.jpg)
-![alt text](https://github.com/rokaN8/MazeChallenge_Python/tree/master/readme_images/success/image59.jpg)
+
+![alt text](https://raw.githubusercontent.com/rokaN8/MazeChallenge_Python/master/readme_images/success/image227.jpg)
+![alt text](https://raw.githubusercontent.com/rokaN8/MazeChallenge_Python/master/readme_images/success/image231.jpg)
+![alt text](https://raw.githubusercontent.com/rokaN8/MazeChallenge_Python/master/readme_images/success/image241.jpg)
+![alt text](https://raw.githubusercontent.com/rokaN8/MazeChallenge_Python/master/readme_images/success/image59.jpg)
 
 
 Solutions:
