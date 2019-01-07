@@ -25,5 +25,7 @@ Successful Paths:
 Solutions:
 
 3x3 Grid: 78 (different from their solution which states 74)
+
 4x4 Grid: 10814
+
 5x5 Grid: 
